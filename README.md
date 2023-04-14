@@ -1,3 +1,7 @@
+# [odoo.thich2hand.com](https://odoo.thich2hand.com)
+
+Try out odoo 13.0 with docker-compose for thich2hand.com
+
 # Quick install
 
 Installing Odoo 13 with one command.
