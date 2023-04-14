@@ -1,4 +1,4 @@
-# [odoo.thich2hand.com](https://odoo.thich2hand.com)
+# [thich2hand.com](https://thich2hand.com)
 
 Try out odoo 13.0 with docker-compose for thich2hand.com
 
